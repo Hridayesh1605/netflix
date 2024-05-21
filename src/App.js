@@ -5,16 +5,16 @@ import sdata from "./data";
 
 
 //arrow funvtion
-const ncard = (val) => {
-  return (
-    <Card imgsrc={val.imgsrc}
-      title={val.title}
-      category={val.category}
-      link={val.link}
-    />
+// const ncard = (val) => {
+//   return (
+//     <Card imgsrc={val.imgsrc}
+//       title={val.title}
+//       category={val.category}
+//       link={val.link}
+//     />
 
-  )
-}
+//   )
+// }
 
 function App() {
   return (
